@@ -196,9 +196,10 @@ function rotateIcon(iconId) {
 
 //   ------------- numbers counter -----------------//
 
-$(document).ready(function () {
-    $(".counter").counterUp({
-        delay: 10,
-        time: 1200,
-    });
-});
+// $(document).ready(function () {
+//     $(".counter").counterUp({
+//         delay: 10,
+//         time: 1200,
+//     });
+// });
+
